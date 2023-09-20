@@ -76,7 +76,7 @@ const SinglePost = () => {
                     <CardMedia
                         component="img"
                         height="394"
-                        image="/images/haerin.jpg"
+                        image="/images/chaeyoung2.jpg"
                         alt={post.title}
                     />
                     <CardContent>
